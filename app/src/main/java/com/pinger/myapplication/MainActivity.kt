@@ -2,9 +2,6 @@ package com.pinger.myapplication
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v7.widget.LinearLayoutCompat
-import android.support.v7.widget.LinearLayoutManager
-import android.support.v7.widget.RecyclerView
 import kotlinx.android.synthetic.main.content_name_list.*
 import java.util.ArrayList
 
